@@ -11,7 +11,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "NFzT Checker",
+  title: "NadFT Checker",
   description: "NFT tool on Monad Testnet",
   creator: "LumierreWatts",
 };
